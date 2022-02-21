@@ -8,7 +8,7 @@
     font-size: 36px;
 }
 
-.pink.big{
+.pink.big{      /* must use period with no spaces on css sheet when using multiple selectors */
 
     font-size: 24px;
 }
